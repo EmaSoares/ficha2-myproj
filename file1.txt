@@ -12,4 +12,9 @@ Fiz uma alteração dentro do ficheiro
 
 Alterações Efectuadas no branch "NovaFeature"
 
+<<<<<<< HEAD
 Alteração no branch NOVAFEATURE
+=======
+
+Alteração  no branch MASTER
+>>>>>>> master
