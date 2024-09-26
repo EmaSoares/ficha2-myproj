@@ -11,3 +11,5 @@ Fiz uma alteração dentro do ficheiro
 
 
 Alterações Efectuadas no branch "NovaFeature"
+
+Alteração no branch NOVAFEATURE
